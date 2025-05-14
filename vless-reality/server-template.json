@@ -61,7 +61,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "161d5519-8e9b-4963-bdee-343e774e3d1d", // 运行 `xray uuid` 生成
+                        "id": "01b12a03-c563-47b2-b699-a020ee1e24a3", // 运行 `xray uuid` 生成
                         "flow": "xtls-rprx-vision"
                     }
                 ],
@@ -75,9 +75,9 @@
                     "serverNames": [
                         "www.kciconst.com" // 目标网站
                     ],
-                    "privateKey": "iEN_IiSkGMt5ObNgWCKd1p5b-3qSkEqlyOHTC2F3G1M", // 运行 `xray x25519` 生成
+                    "privateKey": "GMcR0aCRR7En0p2UoyqAd3XIt5DGiZE7jGWTH7XZcX4", // 运行 `xray x25519` 生成
                     "shortIds": [ // 运行 `openssl rand -hex 8` 生成
-                        "6ac6f0226e8bd560"
+                        "1c3e9aea5e62ed55"
                     ]
                 }
             },
