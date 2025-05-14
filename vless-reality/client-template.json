@@ -94,11 +94,11 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "", // 替换成你的ip
-                        "port": 10111, // 替换成你的端口
+                        "address": "140.83.59.43", // 替换成你的ip
+                        "port": 10117, // 替换成你的端口
                         "users": [
                             {
-                                "id": "161d5519-8e9b-4963-bdee-343e774e3d1d", // 和服务器端uuid的一致
+                                "id": "01b12a03-c563-47b2-b699-a020ee1e24a3", // 和服务器端uuid的一致
                                 "flow": "xtls-rprx-vision",
                                 "encryption": "none"
                             }
@@ -112,8 +112,8 @@
                 "realitySettings": {
                     "fingerprint": "chrome",
                     "serverName": "www.kciconst.com", // 目标网站，与服务端一致
-                    "publicKey": "dsZC4mICpizZvBiRGYzyAyjbT63ZwgBYflZ_NxyUvlE", // 服务端执行 xray x25519 生成，私钥对应的公钥，填 "Public key" 的值
-                    "shortId": "6ac6f0226e8bd560" // 与服务端一致
+                    "publicKey": "hiXrjO4Rh0kpC1fhA2BjLZA2QxYhlro0Oaed6-TBfi4", // 服务端执行 xray x25519 生成，私钥对应的公钥，填 "Public key" 的值
+                    "shortId": "1c3e9aea5e62ed55" // 与服务端一致
                 }
             }
         },
